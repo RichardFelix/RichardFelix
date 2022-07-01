@@ -1,4 +1,4 @@
-![Code Greeting Snippet](https://github.com/RichardFelix/RichardFelix/blob/main/carbon.png?raw=true)
+![Code Greeting Snippet](https://github.com/RichardFelix/RichardFelix/blob/main/carbon1.png?raw=true)
 
 <!--
 ### Hi there 👋
