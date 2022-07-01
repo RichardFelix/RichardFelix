@@ -1,6 +1,8 @@
-### Hi there 👋
+![Code Greeting Snippet](https://github.com/RichardFelix/RichardFelix/blob/main/carbon.png?raw=true)
 
 <!--
+### Hi there 👋
+
 **RichardFelix/RichardFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
