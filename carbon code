@@ -1,0 +1,24 @@
+const FNAME = `Richard`;
+const LOVES = [`Coding`, `Learn`];
+const WEBSITE = `https://richardcfelix.com/`;
+
+const sayHi = ()=>{
+  console.log(`Hey there, I'm ${FNAME}!!  And one of my loves is ${LOVES[0]}!!`);
+};
+
+const learnMore = ()=>{
+  console.log(`I am Full Stack Web Developer and love to ${LOVES[1]} new things!!`);
+};
+
+const getInContact = ()=>{
+  console.log(`Hit up my website (${WEBSITE}) and let's link up!!`);
+};
+
+const peace = ()=>{
+  console.log(`Thanks for stopping by and enjoy the rest of your day!!`);
+};
+
+sayHi();
+learnMore();
+getInContact();
+peace();
